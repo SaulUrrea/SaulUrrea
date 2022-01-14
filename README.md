@@ -1,12 +1,12 @@
-<h3>Bienvenido Internauta. 👋</h3>
+<h3 align="center">Bienvenido Internauta. 👋</h3>
 
-[![Saul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true)](https://github.com/SaulUrrea)
+<p align="center">
+  [![Saul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true)](https://github.com/SaulUrrea)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulUrrea&show_icons=true)
+</p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulUrrea&show_icons=true)
-
-
-<h3> 🤝🏻 Contactame </h3>
+<h3 align="center"> 🤝🏻 Contactame </h3>
 
 
 <p align="center">
@@ -20,6 +20,5 @@
 </a>
   
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=SaulUrrea.SaulUrrea)
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
