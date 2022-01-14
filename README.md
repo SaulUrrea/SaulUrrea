@@ -1,29 +1,25 @@
 <h3>Bienvenido Internauta. 👋</h3>
 
-<a href="https://www.linkedin.com/in/saul-esteban-urrea-osorio-2879511ba/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+[![Saul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true)](https://github.com/SaulUrrea)
 
-<a href="https://github.com/saulurrea"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<br/>
 
-<a href="https://github.com/saulurrea"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulUrrea&show_icons=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true" alt="SaulUrrea" /> 
+<br><br>
+
+<h3> 🤝🏻 Contactame </h3>
+
+<br>
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saul-esteban-urrea-osorio-2879511ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:saul5577@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-<p align="left"> </p>
 
 
-<!--
-**SaulUrrea/SaulUrrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=SaulUrrea.SaulUrrea)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
