@@ -1,5 +1,11 @@
 <h3>Bienvenido Internauta. 👋</h3>
 
+<a href="https://www.linkedin.com/in/saul-esteban-urrea-osorio-2879511ba/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+<a href="https://github.com/saulurrea"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+
+<a href="https://github.com/saulurrea"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true" alt="SaulUrrea" /> 
 
