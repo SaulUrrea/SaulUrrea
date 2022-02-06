@@ -1,4 +1,17 @@
-<h3 align="center">Bienvenido Internauta. 👋</h3>
+<h3 align="center">Welcome Devs. 👋</h3>
+
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am a computer engineering student**.
+    🌱 I am currently learning **Kotlin** and also interested in **Web Development**.
+    ✨ I love to create different types of **contents**.
+<td >
+  <a href="https://app.daily.dev/SaulitoDev"><img src="https://api.daily.dev/devcards/60e4334634294c57ae42ac32e805a147.png?r=e8b" width="300" alt="Saul Urrea's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
 
 
   [![Saul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulUrrea&show_icons=true)](https://github.com/SaulUrrea)
@@ -6,7 +19,7 @@
 
 
 
-<h3 align="center"> 🤝🏻 Contactame </h3>
+<h3 align="center"> 🤝🏻 Contact me </h3>
 
 
 <p align="center">
