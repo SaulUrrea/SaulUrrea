@@ -3,9 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am a computer engineering student**.
-    🌱 I am currently learning **Kotlin** and also interested in **Web Development**.
-    ✨ I love to create different types of **contents**.
+    Soy Saul, ingeniero informático con enfoque en desarrollo de software. Mi pasión por la tecnología se refleja en mis habilidades en Flutter, desarrollo nativo de Android con Kotlin y Java,     así como en el backend con Node.js, TypeScript y JavaScript. También tengo experiencia en Firebase y Google Cloud. Además, me destaco por mi interés en el desarrollo web y mi entusiasmo        por crear diversos tipos de contenidos en esta área.
 <td >
   <a href="https://app.daily.dev/SaulitoDev"><img src="https://api.daily.dev/devcards/60e4334634294c57ae42ac32e805a147.png?r=e8b" width="300" alt="Saul Urrea's Dev Card"/></a>
   </td>
@@ -19,7 +17,7 @@
 
 
 
-<h3 align="center"> 🤝🏻 Contact me </h3>
+<h3 align="center"> 🤝🏻 Contactame </h3>
 
 
 <p align="center">
